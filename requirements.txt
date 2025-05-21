@@ -1,1 +1,4 @@
 orientationpy
+tifffile
+pyvista
+matplotlib
