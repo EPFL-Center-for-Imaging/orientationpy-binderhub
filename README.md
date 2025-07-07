@@ -1,4 +1,4 @@
-# Orientationpy runnable example on Binder
+# OrientationPy runnable example on Binder
 
 Launch Jupyterlab on Binder:
 
